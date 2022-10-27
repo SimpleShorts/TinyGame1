@@ -1,0 +1,4 @@
+Content/Character/T_Antbot_M_R_AO.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Landscape/T_SandTileabe_BC.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Props/T_Metal_N.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Props/T_Plastic_N.uasset filter=lfs diff=lfs merge=lfs -text
